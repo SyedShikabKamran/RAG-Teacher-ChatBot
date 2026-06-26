@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-chroma
+chromadb
+sentence-transformers
+pypdf
+torch
+transformers
+accelerate
